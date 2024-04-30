@@ -1,0 +1,96 @@
+Inserting 57.12 Dollar: Node is successfully added
+Inserting 23.44 Dollar: Node is successfully added
+Inserting 87.43 Dollar: Node is successfully added
+Inserting 68.99 Dollar: Node is successfully added
+Inserting 111.22 Dollar: Node is successfully added
+Inserting 44.55 Dollar: Node is successfully added
+Inserting 77.77 Dollar: Node is successfully added
+Inserting 18.36 Dollar: Node is successfully added
+Inserting 543.21 Dollar: Node is successfully added
+Inserting 20.21 Dollar: Node is successfully added
+Inserting 345.67 Dollar: Node is successfully added
+Inserting 36.18 Dollar: Node is successfully added
+Inserting 48.48 Dollar: Node is successfully added
+Inserting 101.0 Dollar: Node is successfully added
+Inserting 11.0 Dollar: Node is successfully added
+Inserting 21.0 Dollar: Node is successfully added
+Inserting 51.0 Dollar: Node is successfully added
+Inserting 1.0 Dollar: Node is successfully added
+Inserting 251.0 Dollar: Node is successfully added
+Inserting 151.0 Dollar: Node is successfully added
+
+Printing by level: 
+Level 1: 57.12 Dollar 
+Level 2: 23.44 Dollar 87.43 Dollar 
+Level 3: 18.36 Dollar 44.55 Dollar 68.99 Dollar 111.22 Dollar 
+Level 4: 11.0 Dollar 20.21 Dollar 36.18 Dollar 48.48 Dollar 77.77 Dollar 101.0 Dollar 543.21 Dollar 
+Level 5: 1.0 Dollar 21.0 Dollar 51.0 Dollar 345.67 Dollar 
+Level 6: 251.0 Dollar 
+Level 7: 151.0 Dollar 
+
+In-Order Traversal
+   1.0 Dollar
+   11.0 Dollar
+   18.36 Dollar
+   20.21 Dollar
+   21.0 Dollar
+   23.44 Dollar
+   36.18 Dollar
+   44.55 Dollar
+   48.48 Dollar
+   51.0 Dollar
+   57.12 Dollar
+   68.99 Dollar
+   77.77 Dollar
+   87.43 Dollar
+   101.0 Dollar
+   111.22 Dollar
+   151.0 Dollar
+   251.0 Dollar
+   345.67 Dollar
+   543.21 Dollar
+
+Pre-Order Traversal: 
+   57.12 Dollar
+   23.44 Dollar
+   18.36 Dollar
+   11.0 Dollar
+   1.0 Dollar
+   20.21 Dollar
+   21.0 Dollar
+   44.55 Dollar
+   36.18 Dollar
+   48.48 Dollar
+   51.0 Dollar
+   87.43 Dollar
+   68.99 Dollar
+   77.77 Dollar
+   111.22 Dollar
+   101.0 Dollar
+   543.21 Dollar
+   345.67 Dollar
+   251.0 Dollar
+   151.0 Dollar
+
+Post-Order Traversal: 
+   1.0 Dollar
+   11.0 Dollar
+   21.0 Dollar
+   20.21 Dollar
+   18.36 Dollar
+   36.18 Dollar
+   51.0 Dollar
+   48.48 Dollar
+   44.55 Dollar
+   23.44 Dollar
+   77.77 Dollar
+   68.99 Dollar
+   101.0 Dollar
+   151.0 Dollar
+   251.0 Dollar
+   345.67 Dollar
+   543.21 Dollar
+   111.22 Dollar
+   87.43 Dollar
+   57.12 Dollar
+
