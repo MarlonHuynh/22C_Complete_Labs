@@ -3,7 +3,7 @@ Project Information
 Project Name:       Lab 5 - Hash Maps
 Class:              W24 CIS D022C Data Abstract & Structures 04Y Goel 32936, 34068
 Professor:          Manish Goel
-Contributors:       Betty Huynh, Jorge David Olivas-Galdamez
+Contributors:       Marlon Huynh, Jorge David Olivas-Galdamez
 Date Due:           March 17th, 2024
 
 Program Information
@@ -31,7 +31,7 @@ int main() {
     // Welcome message
     cout << "******************************************************";
     cout << "\n  Welcome to the Lab 5 - Hash Table demonstration!";
-    cout << "\n\nContributors: Betty Huynh, Jorge David Olivas-Galdamez\nIDE Used: Visual Studio 2022\nLanguage: C++";
+    cout << "\n\nContributors: Marlon Huynh, Jorge David Olivas-Galdamez\nIDE Used: Visual Studio 2022\nLanguage: C++";
     cout << "\n******************************************************\n\n";
 
     // Create hashmap

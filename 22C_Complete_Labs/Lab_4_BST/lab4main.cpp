@@ -3,7 +3,7 @@ Project Information
 Project Name:       Lab 4 - Binary Search Tree
 Class:              W24 CIS D022C Data Abstract & Structures 04Y Goel 32936, 34068
 Professor:          Manish Goel
-Contributors:       Betty Huynh, Jorge David Olivas-Galdamez
+Contributors:       Marlon Huynh, Jorge David Olivas-Galdamez
 Date Due:           March 2nd, 2024
 
 Program Information
@@ -34,7 +34,7 @@ int main() {
     // Welcome message
     std::cout << "******************************************************";
     std::cout << "\n\tWelcome to the binary tree demonstration!";
-    std::cout << "\n\nContributors: Betty Huynh, Jorge David Olivas-Galdamez\nIDE Used: Visual Studio 2022\nLanguage: C++";
+    std::cout << "\n\nContributors: Marlon Huynh, Jorge David Olivas-Galdamez\nIDE Used: Visual Studio 2022\nLanguage: C++";
     std::cout << "\n******************************************************\n\n"; 
     
     // Create tree

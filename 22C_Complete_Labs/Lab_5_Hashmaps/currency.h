@@ -3,7 +3,7 @@ Project Information
 Project Name:       Lab 5 - Hashtables
 Class:              W24 CIS D022C Data Abstract & Structures 04Y Goel 32936, 34068
 Professor:          Manish Goel
-Contributors:       Betty Huynh, Jorge David Olivas-Galdamez
+Contributors:       Marlon Huynh, Jorge David Olivas-Galdamez
 Date Due:           March 17th, 2024
 
 Program Information
@@ -12,7 +12,7 @@ Language:           C++
 */
 
 /*
-    This is Betty's Lab 2 Dollar file. (Clarification because Betty changed partners)  
+    This is Marlon's Lab 2 Dollar file. (Clarification because Marlon changed partners)  
 
     CHANGES MADE IN LAB 3:
 

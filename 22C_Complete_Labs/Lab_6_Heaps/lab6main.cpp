@@ -3,7 +3,7 @@ Project Information
 Project Name:       Lab 6 - Heaps
 Class:              W24 CIS D022C Data Abstract & Structures 04Y Goel 32936, 34068
 Professor:          Manish Goel
-Contributors:       Betty Huynh
+Contributors:       Marlon Huynh
 Date Due:           March 21st, 2024
 
 Program Information
@@ -67,7 +67,7 @@ int main() {
     // Welcome message
     cout << "******************************************************";
     cout << "\n  Welcome to the Lab 6 - Heaps demonstration!";
-    cout << "\n\nContributors: Betty Huynh\nIDE Used: Visual Studio 2022\nLanguage: C++";
+    cout << "\n\nContributors: Marlon Huynh\nIDE Used: Visual Studio 2022\nLanguage: C++";
     cout << "\n******************************************************\n\n";
 
     // Create min heap

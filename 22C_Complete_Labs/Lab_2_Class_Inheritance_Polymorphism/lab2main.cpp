@@ -3,7 +3,7 @@ Project Information
 Project Name:       Lab 2 - Classes, Inheritance, and Polymorphism
 Class:              W24 CIS D022C Data Abstract & Structures 04Y Goel 32936, 34068
 Professor:          Manish Goel 
-Contributors:       Betty Huynh, Joseph Silvas
+Contributors:       Marlon Huynh, Joseph Silvas
 Date Due:           Feb 7th, 2024
 
 Program Information
